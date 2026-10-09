@@ -23,3 +23,7 @@ environment with saved progress and tracked improvement over time.
 
 ## Status
 In development — targeting a ₹119/month subscription model.
+
+
+
+
